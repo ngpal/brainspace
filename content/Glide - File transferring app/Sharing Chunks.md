@@ -99,4 +99,4 @@ To summarize, after getting the metadata from the client, we can read bytes from
 
 See whole commit on [GitHub](https://github.com/ngpal/file-transfer/commit/d4c9ea2632486a2b3c5620011d8caa7123d25492).
 
-In the [[3.5. An Underwhelming Day|next log]], we can work on encrypting the data we send, and maybe even making it work as an actual app with which I can transfer files between two machines, instead of running the server and client in the same machine lol. Anyways, this has been a great experience so far and I'm so excited to keep going! Seeya!
+In the [[An Underwhelming Day|next log]], we can work on encrypting the data we send, and maybe even making it work as an actual app with which I can transfer files between two machines, instead of running the server and client in the same machine lol. Anyways, this has been a great experience so far and I'm so excited to keep going! Seeya!

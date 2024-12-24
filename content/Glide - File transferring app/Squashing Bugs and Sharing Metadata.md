@@ -92,4 +92,4 @@ Check out the commit on [GitHub](https://github.com/ngpal/file-transfer/commit/7
 ## Reflection
 That's all for today! Next, we will start chunking and sending the files to the server. Today's work was a lot less than I expected to get done, but it was also really fulfilling for me. Slowly working on a project idea that I'm passionate and curious about has really boosted my motivation, and logging my process has helped me push myself to keep working on it, while reigniting my love for writing. 
 
-See ya on the [[3. Sharing Chunks|next one.]]
+See ya on the [[Sharing Chunks|next one.]]
