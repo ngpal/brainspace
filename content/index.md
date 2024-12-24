@@ -2,4 +2,4 @@
 title: Welcome to my BrainSpace
 ---
 ## Projects
-- [[Introducing My File Sharing Project|Glide]] - CLI File Transferring application
+- [[0. Introducing Glide|Glide]] - CLI File Transferring application
