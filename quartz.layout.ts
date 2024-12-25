@@ -26,9 +26,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
+    Component.RecentNotes({
+      title: "Recent Writing",
+      limit: 3,
+        filter: (node) => {
+        return !node.frontmatter?.tags?.includes("excalidraw")
+      },
+
+    }),
     Component.DesktopOnly(Component.Explorer({
       filterFn: (node) => {
-        // set containing names of everything you want to filter out
         if (node.name == "Excalidraw") {
           return false
         }
