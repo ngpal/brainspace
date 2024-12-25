@@ -1,13 +1,13 @@
 ---
 date: 2024-12-19
-title: Introducing Glide
+title: Glide
 tags:
   - glide
 ---
 ## The Idea 💡  
 The inspiration for this project came from a simple yet powerful goal: to make file sharing easy, efficient, and reliable. While tools like cloud storage services or USB drives dominate this space, I wanted to explore something more personal and technical—a **command-line tool** for file sharing. Why command-line? Well, I suck at UI.
 
-Initially, I envisioned a **peer-to-peer (P2P)** file-sharing system, but as I delved deeper into the complexities of networking (like NAT traversal and decentralized discovery), I realized how ambitious such a project would be, especially for someone still learning the intricacies of networking. So, the plan has evolved into building a solid foundation, starting with a **server-client model** and then progressing toward the P2P vision. In all honesty, I'm writing this introduction AFTER finishing [[3.5. An Underwhelming Day|Log 3.5]], so there is a lot of ideas and planning that do not reflect well in those logs lol. But here we are!
+Initially, I envisioned a **peer-to-peer (P2P)** file-sharing system, but as I delved deeper into the complexities of networking (like NAT traversal and decentralized discovery), I realized how ambitious such a project would be, especially for someone still learning the intricacies of networking. So, the plan has evolved into building a solid foundation, starting with a **server-client model** and then progressing toward the P2P vision. In all honesty, I'm writing this introduction AFTER finishing [[4. An Underwhelming Day|Log 3.5]], so there is a lot of ideas and planning that do not reflect well in those logs lol. But here we are!
 ## The Motivation 🚀
 I’ve always been fascinated by networking and low-level systems programming. This project gives me an opportunity to explore concepts like:
 -  **File chunking** for reliable transfers.
@@ -39,9 +39,3 @@ Beyond practicality, Glide is also my playground—a project to experiment, lear
 This is just the beginning. I’ll be documenting my progress with detailed logs, including design decisions, challenges, and breakthroughs. Stay tuned as glide evolves from a simple file transfer tool into a robust system!
 
 Feel free to share ideas, suggestions, or tips. Let’s build something cool together!
-## Index
-1. [[1. Exploring Async Networking in Rust|Exploring Async Networking in Rust]]
-2. [[2. Squashing Bugs and Sharing Metadata|Squashing Bugs and Sending Metadata]]
-3. [[3. Sharing Chunks|Sharing Chunks]]
-	1. [[3.5. An Underwhelming Day|An Underwhelming Day]]
-4. [[4. Major Overhauls and Commands|Major Overhauls and Commands]]

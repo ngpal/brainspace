@@ -16,8 +16,8 @@ I’m writing this not just for myself but also for anyone who might find value 
 ---
 ## Current Projects  
 
-### [[0. Introducing Glide|Glide]]  
-[[0. Introducing Glide|Glide]] is my latest brainchild: a CLI-based file transfer application that’s all about getting your files from Point A to Point B without the usual tech drama.  
+### [[Projects/Glide - File transferring app/index.md|Glide]]  
+[[Projects/Glide - File transferring app/index.md|Glide]] is my latest brainchild: a CLI-based file transfer application that’s all about getting your files from Point A to Point B without the usual tech drama.  
 
 Here’s what Glide is aiming to do:  
 - **Simplicity**: A tool so straightforward, it’ll make you wonder why you ever used anything else.  
