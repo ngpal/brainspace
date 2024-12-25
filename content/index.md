@@ -26,6 +26,10 @@ Here’s what Glide is aiming to do:
 This project is my hands-on dive into the world of peer-to-peer (P2P) systems and networking. I'll be documenting everything along the way—from the first spark of inspiration to the final line of code (and probably a few late-night debugging sessions in between).  
 
 ---
+## Where Can You Find Me?
+You can find all my projects, (WIP and completed) on my [GitHub](https://github.com/ngpal), and you can reach out to me at nandagopalnmenon@icloud.com!
+
+---
 ## Closing Thoughts  
 BrainSpace is a work in progress—just like me. Stick around, and you’ll see how ideas evolve, how projects come to life, and maybe even catch a glimpse of some occasional tech-related humor.  
 
