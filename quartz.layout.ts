@@ -29,8 +29,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer({
       filterFn: (node) => {
         // set containing names of everything you want to filter out
-        const omit = new Set(["Excalidraw"])
-        return !omit.has(node.name.toLowerCase())
+        if (node.name == "Excalidraw") {
+          return false
+        }
+
+        return true
       },
       sortFn(a, b) {
           return a.name.localeCompare(b.name)
