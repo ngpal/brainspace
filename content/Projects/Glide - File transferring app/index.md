@@ -18,18 +18,20 @@ I’ve always been fascinated by networking and low-level systems programming. T
 This project will also improve my skills with **Rust**, a language I love for its performance, safety guarantees, and suitability for systems programming.
 ## The Goals 🎯
 Here’s what I aim to achieve:
-1. **Version 1**: A server-client file transfer application.
-	• Basic metadata exchange (file name, size).
-	• File chunking and reliable transfer.
-	• Support for multiple clients.
-2. **Version 2**: Progress toward P2P communication.
-• Peer discovery and direct file sharing.
-• NAT traversal experiments.
-• Enhanced CLI usability for real-world scenarios.
-3. **Future Scope**:
-	• Encryption for secure transfers.
-	• Compression for faster transfers.
-	• Multi-platform support, making it usable anywhere.
+1. **Version 1**: 
+	- A server-client file transfer application.
+	- Basic metadata exchange (file name, size).
+	-  File chunking and reliable transfer.
+	-  Support for multiple clients.
+2. **Version 2**: 
+	- Progress toward P2P communication.
+	- Peer discovery and direct file sharing.
+	- NAT traversal experiments.
+	- Enhanced CLI usability for real-world scenarios.
+1. **Future Scope**:
+	- Encryption for secure transfers.
+	- Compression for faster transfers.
+	- Multi-platform support, making it usable anywhere.
 ## The Name 🎨
 After some brainstorming, I’ve decided to name the project **“Glide”**—a minimalist, abstract, and CLI-friendly name that’s easy to type and remember.
 ## Why This Matters 🌍
