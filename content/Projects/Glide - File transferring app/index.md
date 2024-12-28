@@ -3,6 +3,7 @@ date: 2024-12-19
 title: Glide
 tags:
   - glide
+publish: "true"
 ---
 ## The Idea 💡  
 The inspiration for this project came from a simple yet powerful goal: to make file sharing easy, efficient, and reliable. While tools like cloud storage services or USB drives dominate this space, I wanted to explore something more personal and technical—a **command-line tool** for file sharing. Why command-line? Well, I suck at UI.
