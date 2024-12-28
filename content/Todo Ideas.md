@@ -1,0 +1,8 @@
+- Tutorials
+	- Rust language tutorials
+		- Rock Paper Scissors
+		- TicTacToe
+- Thoughts dump
+	- Talk about my hobbies
+- Dictionary Folder
+	- Smaller pages with definitions of certain words and phrases
