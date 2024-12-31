@@ -18,14 +18,15 @@ I’m writing this not just for myself but also for anyone who might find value 
 ## Current Projects  
 
 ### [[Projects/Glide - File transferring app/index.md|Glide]]  
-[[Projects/Glide - File transferring app/index.md|Glide]] is my latest brainchild: a CLI-based file transfer application that’s all about getting your files from Point A to Point B without the usual tech drama.  
+[[Projects/Glide - File transferring app/index.md|Glide]] is my latest brainchild: a CLI-based file transfer application designed to make sharing files on your local network simple, efficient, and reliable.  
 
 Here’s what Glide is aiming to do:  
 - **Simplicity**: A tool so straightforward, it’ll make you wonder why you ever used anything else.  
 - **Efficiency**: Blazing-fast file transfers because nobody likes staring at a progress bar.  
-- **Peer-to-Peer Connectivity**: No middlemen, no fuss—just your files and their destination.  
+- **Local Network Server**: Start with seamless transfers within your home or office network.  
+- **Future Expansion**: Lay the groundwork for peer-to-peer (P2P) connectivity, removing middlemen entirely.
 
-This project is my hands-on dive into the world of peer-to-peer (P2P) systems and networking. I'll be documenting everything along the way—from the first spark of inspiration to the final line of code (and probably a few late-night debugging sessions in between).  
+This project is my hands-on dive into the world of networking, focusing on building a robust local network server with the ambition to expand into P2P systems. I'll be documenting everything along the way—from the first spark of inspiration to the final line of code (and probably a few late-night debugging sessions in between).  
 
 ---
 ## Where Can You Find Me?
