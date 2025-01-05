@@ -11,6 +11,7 @@ BrainSpace is my attempt at making sense of the organized chaos that is my brain
 - **Project Logs**: A play-by-play of my ongoing projects, including the "aha!" moments and the "oh no, why did I do that?" moments.  
 - **Ideas and Concepts**: The brainstorms that might one day change the world—or at least keep me up at night thinking they might.  
 - **Learning Journeys**: Notes and reflections from my adventures in learning new tools, frameworks, and concepts. Spoiler alert: it involves a lot of Stack Overflow tabs.  
+- **Random Thoughts**: Thoughts and ideas that pass through my brain, or hobbies I'm currently indulged in are written about in unnecessary detail with a lot veering away from the topic can be found [[More of Me/index|here]]. 
 
 I’m writing this not just for myself but also for anyone who might find value (or entertainment) in my journey. If I can spark an idea or save someone from making the same mistake, that’s a win!  
 
