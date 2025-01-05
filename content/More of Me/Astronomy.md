@@ -43,7 +43,7 @@ Jupiter, the larges planet in the solar system, is usually the brightest thing i
 ### The Orion Constellation
 This is my favorite constellation,  because it's the only one I can identify in the night sky. Look for 3 stars in a straight line, it's hard to miss. Those three stars are known as Orion's Belt. It's usually visible in January, but not exclusively. Refer to [this picture](https://earthsky.org/upl/2022/01/Orion-January-Evenings-e1640798952631.jpg) to get an idea of where the rest of [Orion](https://en.wikipedia.org/wiki/Orion_(constellation)?useskin=vector) lies. This leads me to the brightest star in the constellation,
 ### Betelgeuse
-Pronounced *beetle-juice*, this is the brightest star in the Orion constellation. It's a red supergiant star, and is the 10th brightest star in the night sky.
+Pronounced *beetle-juice*, this is the brightest star in the Orion constellation. It's a red supergiant star, and is the 10th brightest star in the night sky. I included it here because of it's funny name lol.
 ### Sirius
 Sirius, the dog star, is the brightest star in the night sky. I used to confuse Sirius with Jupiter a lot, because Jupiter is usually the brightest object in the sky. But like I said, stars twinkle, planets don't. Fun fact: it's about 9 light years away. So the Sirius you're seeing from here is actually how it looked 9 years ago. 
 ### Mars
