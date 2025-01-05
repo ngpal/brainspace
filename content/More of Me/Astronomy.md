@@ -5,7 +5,7 @@ tags:
   - hobby
 ---
 
-Today we're gonna talk about my relationship with astronomy and stargazing, and how you can recognize these beautiful celestial bodies yourself.
+Today we're gonna talk about my relationship with astronomy and stargazing, and how you can [[Astronomy#How Can You See It?|recognize]] these beautiful celestial bodies yourself.
 
 ---
 ## What is Astronomy?
