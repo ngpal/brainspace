@@ -4,7 +4,6 @@ date: 2025-01-05
 tags:
   - hobby
 ---
-
 Today we're gonna talk about my relationship with astronomy and stargazing, and how you can [[Astronomy#How Can You See It?|recognize]] these beautiful celestial bodies yourself.
 
 ---
@@ -50,6 +49,6 @@ Sirius, the dog star, is the brightest star in the night sky. I used to confuse 
 Mars is easy to spot, but is also a rare find in the night sky. It's the only red object in the night sky that will not twinkle. So be on the lookout for that.
 
 ## Bonus: Picture guide
-To get a semi decent picture of any of the above, all you need is a relatively newer phone which has night mode photography. Point your phone at the night sky and click a picture. Hold your phone as still as possible during the photo. If there's a lot of light pollution or things aren't bright enough, use the edit option to crank up the contrast and lower the brightness. 
+To get a semi decent picture of any of the above, all you need is a relatively newer phone which has night mode photography. Point your camera at the night sky and click a picture. Hold your phone as still as possible during the photo. If there's a lot of light pollution or things aren't bright enough, use the edit option to crank up the contrast and lower the brightness. 
 
 Hope you get clear skies and starry nights! 🌌🪐🔭
