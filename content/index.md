@@ -17,9 +17,8 @@ I’m writing this not just for myself but also for anyone who might find value 
 
 ---
 ## Current Projects  
-
 ### [[Projects/Glide - File transferring app/index.md|Glide]] v1.0
-[[Projects/Glide - File transferring app/index.md|Glide]] is my latest brainchild: a CLI-based file transfer application designed to make sharing files on your local network simple, efficient, and reliable.  
+A CLI-based file transfer application designed to make sharing files on your local network simple, efficient, and reliable.  
 
 Here’s what Glide is aiming to do:  
 - **Simplicity**: A tool so straightforward, it’ll make you wonder why you ever used anything else.  
