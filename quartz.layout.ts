@@ -23,7 +23,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/ngpal/",
-      "amrita.town": "https://amrita.town/random",
+      "amrita.town": "https://amrita.town/",
       "⬅️": "https://amrita.town/prev",
       "🎲": "https://amrita.town/random",
       "➡️": "https://amrita.town/next",
