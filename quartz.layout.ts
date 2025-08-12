@@ -24,9 +24,9 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/ngpal/",
       "amrita.town": "https://amrita.town/",
-      "⬅️": "https://amrita.town/prev",
-      "🎲": "https://amrita.town/random",
-      "➡️": "https://amrita.town/next",
+      "⬅️": "http://amrita.town/next?site=ngpal.github.io/brainspace",
+      "🎲": "http://amrita.town/random?site=ngpal.github.io/brainspace",
+      "➡️": "http://amrita.town/next?site=ngpal.github.io/brainspace",
     },
   }),
 }
