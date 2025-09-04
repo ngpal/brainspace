@@ -28,6 +28,16 @@ Here’s what Glide is aiming to do:
 
 This project is my hands-on dive into the world of networking, focusing on building a robust local network server with the ambition to expand into P2P systems. I'll be documenting everything along the way—from the first spark of inspiration to the final line of code (and probably a few late-night debugging sessions in between).  
 
+### [[Projects/Mango - Toy language compiler/index.md|Mango]] WIP
+A parser, compiler and VM/Bytecode interpreter, built from the ground up, entirely from scartch, purely for the joy of it.
+
+Here are a few of my plans for this project: 
+- Everything built from scratch in Rust, no external libraries, no shortcuts.
+- Low level language with granular memory access (first VM, then on the OS).
+- Enrich my knowledge in compiler design, optimization and other things that pop up on the way
+
+Writing a compiler has been a dream of mine for the longest time that I have been putting off ever since I first got that dream. This blog is going to serve as a reference for this project, a tutorial maybe if you want to follow along and do something similar, and as a place I can think out loud while I debug my horribly undocumented code. 
+
 ---
 ## Where Can You Find Me?
 You can find all my projects, (WIP and completed) on my [GitHub](https://github.com/ngpal), and you can reach out to me at nandagopalnmenon@icloud.com!
