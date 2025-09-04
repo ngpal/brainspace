@@ -12,6 +12,9 @@ I already have some experience building parsers from scratch from an interpreter
 
 This project is mostly just to serve as a fun learning tool and as a means to quench my thirst for building a compiler from scratch. I do not expect anyone to seriously use this programming language more than to just tinker around with an interesting toy. Hence, I won't be going hardcore on the compiler optimizations and VM implementation, but I'm gonna go as low level and "from scratch" as I possibly can in the Rust language.
 
+# The Name
+Who doesn't love mangoes? I love mangoes, my girlfriend loves mangoes, my friends love mangoes, my family loves mangoes. So I just decided to go with the first thing that popped up into my head instead of overthinking and coming up with an arguably cooler and more apt name.
+
 # My Goals
 - [ ] Structure out a proper grammar for this toy language
 - [ ] Match the parser with the defined grammar
