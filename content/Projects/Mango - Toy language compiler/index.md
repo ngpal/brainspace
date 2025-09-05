@@ -20,7 +20,7 @@ Who doesn't love mangoes? I love mangoes, my girlfriend loves mangoes, my friend
 - [ ] Match the parser with the defined grammar
 - [ ] Compile to custom "fake" assembly code that will run on my VM/byte-code interpretter
 - [ ] Compile to actual binary (prefferably x86 or Arm64)
-- [ ] Gloat
+- [ ] Gloat about this project to people who mostly could not care less
 
 ## Side quests I might reasonably find myself on
 - Compiler optimizations

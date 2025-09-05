@@ -28,7 +28,7 @@ Here’s what Glide is aiming to do:
 
 This project is my hands-on dive into the world of networking, focusing on building a robust local network server with the ambition to expand into P2P systems. I'll be documenting everything along the way—from the first spark of inspiration to the final line of code (and probably a few late-night debugging sessions in between).  
 
-### [[Projects/Mango - Toy language compiler/index.md|Mango]] WIP
+### [[Projects/Mango - Toy language compiler/index.md|Mango]] \[WIP]
 A parser, compiler and VM/Bytecode interpreter, built from the ground up, entirely from scartch, purely for the joy of it.
 
 Here are a few of my plans for this project: 
